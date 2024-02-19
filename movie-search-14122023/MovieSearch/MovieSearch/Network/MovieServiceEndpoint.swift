@@ -129,7 +129,7 @@ private extension MovieServiceEndpoint {
 
 private extension MovieServiceEndpoint {
 
-    static let apiKey = "a257cddf"
+    static let apiKey = "********"
 
     static let dataUrl: URL = {
         let path = "http://www.omdbapi.com/"
